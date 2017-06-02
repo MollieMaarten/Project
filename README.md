@@ -1,2 +1,2 @@
 # Project
-Hier komt alle documenten voor het project 'Slimme serre'
+Hier komen alle documenten voor het project 'Slimme serre'
