@@ -119,7 +119,7 @@ def read_dht11_dat():
                 else:
                     continue
             if state == STATE_DATA_PULL_UP:
-   q             if current == GPIO.HIGH:
+                if current == GPIO.HIGH:
                     current_length = 0
                     state = STATE_DATA_PULL_DOWN
                 else:
